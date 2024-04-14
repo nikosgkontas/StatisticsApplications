@@ -1,1 +1,1 @@
-# StatisticsCalculator
+# StatisticsApplications
